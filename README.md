@@ -3,7 +3,7 @@
 First clone this repository to your laptop. You must have Node (> v4) and [yarn](https://yarnpkg.com/lang/en/docs/install/) installed.
 
 ```bash
-cd ~/code/<your_github_nickname>
+cd ~/code/$USER
 git clone git@github.com:andrerferrer/clearbit-531 clearbit
 cd clearbit
 rm -rf .git
